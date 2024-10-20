@@ -15,6 +15,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
 ## Dynamic Programming
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/YSShalini/leetcode/tree/master/0851-goat-latin) |
@@ -39,5 +41,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 <!---LeetCode Topics End-->
