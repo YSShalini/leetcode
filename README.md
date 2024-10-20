@@ -32,4 +32,5 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
+| [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
