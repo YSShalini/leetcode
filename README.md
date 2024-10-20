@@ -34,6 +34,7 @@
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
+| [0851-goat-latin](https://github.com/YSShalini/leetcode/tree/master/0851-goat-latin) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/YSShalini/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Hash Table
 |  |
