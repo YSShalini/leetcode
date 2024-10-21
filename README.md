@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/YSShalini/leetcode/tree/master/0792-binary-search) |
+| [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
