@@ -5,7 +5,7 @@ class Solution {
             int c=0;
             String d=Integer.toBinaryString(i);
            for(int j=0;j<d.length();j++){
-            if(d.substring(j,j+1).equals("1")){
+            if(d.charAt(j)=='1'){
             c++;}
            }
            arr[i]=c;
