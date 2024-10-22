@@ -21,6 +21,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
 ## Interactive
 |  |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
