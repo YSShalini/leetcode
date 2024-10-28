@@ -73,12 +73,19 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YSShalini/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/YSShalini/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
