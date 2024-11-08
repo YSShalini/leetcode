@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/YSShalini/leetcode/tree/master/0792-binary-search) |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
+| [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 ## Tree
 |  |
 | ------- |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
