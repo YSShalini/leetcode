@@ -46,6 +46,7 @@
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/YSShalini/leetcode/tree/master/0851-goat-latin) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/YSShalini/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
 | ------- |
