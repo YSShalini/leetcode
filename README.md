@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/YSShalini/leetcode/tree/master/0792-binary-search) |
@@ -35,6 +36,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,4 +134,12 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
