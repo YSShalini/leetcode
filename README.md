@@ -41,6 +41,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
+| [0071-simplify-path](https://github.com/YSShalini/leetcode/tree/master/0071-simplify-path) |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/YSShalini/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
@@ -91,6 +92,7 @@
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/YSShalini/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
