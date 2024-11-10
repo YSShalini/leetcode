@@ -94,6 +94,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
@@ -115,8 +116,17 @@
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
