@@ -104,15 +104,18 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 ## Simulation
 |  |
 | ------- |
