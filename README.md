@@ -107,6 +107,7 @@
 | [0098-validate-binary-search-tree](https://github.com/YSShalini/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YSShalini/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0098-validate-binary-search-tree](https://github.com/YSShalini/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0098-validate-binary-search-tree](https://github.com/YSShalini/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/YSShalini/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
