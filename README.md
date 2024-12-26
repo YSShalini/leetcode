@@ -44,6 +44,7 @@
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/YSShalini/leetcode/tree/master/0071-simplify-path) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/YSShalini/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
@@ -108,6 +109,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/YSShalini/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +127,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/YSShalini/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
 | [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
 ## Queue
@@ -150,6 +155,7 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/YSShalini/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Union Find
 |  |
 | ------- |
