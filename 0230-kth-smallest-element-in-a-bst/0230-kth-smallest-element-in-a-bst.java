@@ -14,23 +14,21 @@
  * }
  */
 class Solution {
-    
+    int c=0,r;
     public int kthSmallest(TreeNode root, int k) {
-        int r=0;
-       Queue<Integer>s=new LinkedList<>();
-       pre(s,root);
-       for(int i=0;i<k;i++){
-        r=s.poll();
-       }
+       pre(root,k);
        return r;
     }
-    private void pre(Queue s,TreeNode root){
+    private void pre(TreeNode root,int k){
         if(root==null){
             return;
         }
         
-        pre(s,root.left);
-        s.add(root.val);
-        pre(s,root.right);
+        pre(root.left,k);
+        c++;
+        if(c==k){
+           r= root.val;
+        }
+        pre(root.right,k);
     }
 }
