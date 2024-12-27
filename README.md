@@ -110,6 +110,7 @@
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | [0110-balanced-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
