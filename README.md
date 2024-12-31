@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
@@ -26,6 +27,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
@@ -36,6 +38,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## String
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/YSShalini/leetcode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
@@ -154,6 +158,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
