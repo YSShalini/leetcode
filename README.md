@@ -54,6 +54,7 @@
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/YSShalini/leetcode/tree/master/0851-goat-latin) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/YSShalini/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Linked List
 |  |
 | ------- |
@@ -195,4 +198,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/YSShalini/leetcode/tree/master/0133-clone-graph) |
+## Prefix Sum
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
