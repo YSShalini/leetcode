@@ -100,6 +100,7 @@
 | [0061-rotate-list](https://github.com/YSShalini/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
+| [0328-odd-even-linked-list](https://github.com/YSShalini/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
 ## Two Pointers
 |  |
