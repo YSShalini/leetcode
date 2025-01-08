@@ -13,11 +13,11 @@ class Solution {
         }
         current.add(root.val);
         if(root.left==null&&root.right==null&&targetSum==root.val){
-             res.add(new ArrayList<>(current));
-           
+            res.add(new ArrayList<>(current));
         }
         helper(root.left,targetSum-root.val,res,current);
         helper(root.right,targetSum-root.val,res,current);
-        current.remove(current.size() - 1);
+
+        current.remove(current.size()-1);
     }
 }
