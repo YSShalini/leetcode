@@ -148,6 +148,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/YSShalini/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/YSShalini/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/YSShalini/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Simulation
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | [0210-course-schedule-ii](https://github.com/YSShalini/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0617-merge-two-binary-trees](https://github.com/YSShalini/leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Union Find
 |  |
 | ------- |
