@@ -69,6 +69,7 @@
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/YSShalini/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/YSShalini/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/YSShalini/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -92,6 +94,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/YSShalini/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
