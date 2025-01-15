@@ -88,6 +88,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
+| [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
