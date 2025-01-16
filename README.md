@@ -12,6 +12,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
 | [0654-maximum-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YSShalini/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -93,12 +94,14 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
+| [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
 | [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
 ## Sorting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 ## Counting Sort
 |  |
@@ -325,6 +328,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
 ## Bucket Sort
 |  |
 | ------- |
