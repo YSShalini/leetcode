@@ -20,6 +20,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/YSShalini/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/YSShalini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
@@ -112,6 +113,7 @@
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/YSShalini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/YSShalini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
