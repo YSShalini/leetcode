@@ -23,6 +23,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/YSShalini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/YSShalini/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/YSShalini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/YSShalini/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
