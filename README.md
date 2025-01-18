@@ -354,4 +354,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/YSShalini/leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
