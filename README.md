@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YSShalini/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -252,6 +254,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
