@@ -11,6 +11,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YSShalini/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/YSShalini/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/YSShalini/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -98,6 +99,7 @@
 | [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/YSShalini/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/YSShalini/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/YSShalini/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/YSShalini/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -311,6 +313,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/YSShalini/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
