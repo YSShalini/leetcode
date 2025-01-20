@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YSShalini/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YSShalini/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -65,6 +66,7 @@
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YSShalini/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -77,6 +79,7 @@
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0071-simplify-path](https://github.com/YSShalini/leetcode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/YSShalini/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
@@ -201,6 +204,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/YSShalini/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/YSShalini/leetcode/tree/master/0100-same-tree) |
@@ -340,6 +344,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/YSShalini/leetcode/tree/master/0113-path-sum-ii) |
 ## Trie
 |  |
