@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/YSShalini/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YSShalini/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/YSShalini/leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/YSShalini/leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YSShalini/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -52,6 +54,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -109,6 +112,7 @@
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/YSShalini/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -127,6 +131,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
@@ -143,6 +148,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/YSShalini/leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
