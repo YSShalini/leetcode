@@ -12,6 +12,7 @@
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/YSShalini/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/YSShalini/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/YSShalini/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -134,6 +135,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/YSShalini/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
