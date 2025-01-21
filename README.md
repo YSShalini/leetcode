@@ -31,6 +31,7 @@
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YSShalini/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/YSShalini/leetcode/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/YSShalini/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -52,6 +53,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YSShalini/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/YSShalini/leetcode/tree/master/0792-binary-search) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/YSShalini/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
@@ -69,6 +71,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Interactive
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0520-detect-capital](https://github.com/YSShalini/leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0851-goat-latin](https://github.com/YSShalini/leetcode/tree/master/0851-goat-latin) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -124,6 +128,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/YSShalini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -144,6 +149,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 ## Counting Sort
@@ -383,6 +389,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/YSShalini/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
