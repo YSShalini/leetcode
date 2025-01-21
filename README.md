@@ -34,6 +34,7 @@
 | [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/YSShalini/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -129,6 +130,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/YSShalini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -425,4 +427,8 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/YSShalini/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Sliding Window
+|  |
+| ------- |
+| [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
 <!---LeetCode Topics End-->
