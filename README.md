@@ -40,6 +40,7 @@
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/YSShalini/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/YSShalini/leetcode/tree/master/2145-grid-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/YSShalini/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/YSShalini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -91,6 +92,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/YSShalini/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/YSShalini/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/YSShalini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String
 |  |
@@ -372,6 +374,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/YSShalini/leetcode/tree/master/0238-product-of-array-except-self) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/YSShalini/leetcode/tree/master/2145-grid-game) |
 ## Topological Sort
 |  |
 | ------- |
