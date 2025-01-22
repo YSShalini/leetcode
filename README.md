@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/YSShalini/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/YSShalini/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/YSShalini/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -151,6 +152,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YSShalini/leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0061-rotate-list](https://github.com/YSShalini/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
