@@ -115,6 +115,7 @@
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0851-goat-latin](https://github.com/YSShalini/leetcode/tree/master/0851-goat-latin) |
+| [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/YSShalini/leetcode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
@@ -209,6 +210,7 @@
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/YSShalini/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +227,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/YSShalini/leetcode/tree/master/0937-online-stock-span) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/YSShalini/leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
@@ -317,6 +320,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/YSShalini/leetcode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
