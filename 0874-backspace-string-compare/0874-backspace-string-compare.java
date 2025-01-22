@@ -11,7 +11,7 @@ class Solution {
                 }
             }else{st.push(c);}
          }
-         StringBuilder f=new StringBuilder();
+       StringBuilder f=new StringBuilder();
          while(!st.isEmpty()){
             f.append(st.pop());
          }
