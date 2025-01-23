@@ -161,6 +161,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/YSShalini/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -204,6 +205,7 @@
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YSShalini/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/YSShalini/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
 ## Two Pointers
@@ -217,6 +219,7 @@
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YSShalini/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/YSShalini/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
@@ -412,6 +415,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
@@ -465,4 +469,8 @@
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/YSShalini/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
