@@ -206,6 +206,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/YSShalini/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/YSShalini/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/YSShalini/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0860-design-circular-queue](https://github.com/YSShalini/leetcode/tree/master/0860-design-circular-queue) |
 ## Two Pointers
@@ -231,6 +232,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/YSShalini/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/YSShalini/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/YSShalini/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Stack
 |  |
 | ------- |
