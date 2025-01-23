@@ -10,6 +10,7 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
+        if(head==null){return null;}
         PriorityQueue<Integer>queue=new PriorityQueue<>();
         ListNode dummy=new ListNode(0);
         ListNode temp=head,curr=dummy;
