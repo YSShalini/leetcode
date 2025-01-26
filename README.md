@@ -118,6 +118,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/YSShalini/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/YSShalini/leetcode/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/YSShalini/leetcode/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/YSShalini/leetcode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -148,6 +149,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/YSShalini/leetcode/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/YSShalini/leetcode/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -234,6 +236,7 @@
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/YSShalini/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/YSShalini/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/YSShalini/leetcode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/YSShalini/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -494,6 +497,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YSShalini/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/YSShalini/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/YSShalini/leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/YSShalini/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
 ## Merge Sort
