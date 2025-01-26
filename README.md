@@ -25,6 +25,7 @@
 | [0287-find-the-duplicate-number](https://github.com/YSShalini/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/YSShalini/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -461,6 +462,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/YSShalini/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
