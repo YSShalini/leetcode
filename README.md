@@ -30,6 +30,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0435-non-overlapping-intervals](https://github.com/YSShalini/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -86,6 +87,7 @@
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/YSShalini/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
 | [0808-number-of-matching-subsequences](https://github.com/YSShalini/leetcode/tree/master/0808-number-of-matching-subsequences) |
 ## Interactive
@@ -167,6 +169,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/YSShalini/leetcode/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/YSShalini/leetcode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/YSShalini/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
 | [2509-minimize-xor](https://github.com/YSShalini/leetcode/tree/master/2509-minimize-xor) |
@@ -180,6 +183,7 @@
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/YSShalini/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
