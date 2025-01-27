@@ -26,6 +26,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/YSShalini/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/YSShalini/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -62,6 +63,7 @@
 | [0278-first-bad-version](https://github.com/YSShalini/leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/YSShalini/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/YSShalini/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/YSShalini/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/YSShalini/leetcode/tree/master/0792-binary-search) |
@@ -98,6 +100,7 @@
 | [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/YSShalini/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [1396-count-servers-that-communicate](https://github.com/YSShalini/leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -175,6 +178,7 @@
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/YSShalini/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
@@ -466,6 +470,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/YSShalini/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/YSShalini/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0630-course-schedule-iii](https://github.com/YSShalini/leetcode/tree/master/0630-course-schedule-iii) |
