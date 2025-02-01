@@ -48,6 +48,7 @@
 | [0940-fruit-into-baskets](https://github.com/YSShalini/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/YSShalini/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/YSShalini/leetcode/tree/master/1028-interval-list-intersections) |
 | [1137-height-checker](https://github.com/YSShalini/leetcode/tree/master/1137-height-checker) |
 | [1396-count-servers-that-communicate](https://github.com/YSShalini/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/YSShalini/leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -259,6 +260,7 @@
 | [0874-backspace-string-compare](https://github.com/YSShalini/leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/YSShalini/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/YSShalini/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1028-interval-list-intersections](https://github.com/YSShalini/leetcode/tree/master/1028-interval-list-intersections) |
 ## Recursion
 |  |
 | ------- |
@@ -528,4 +530,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
+## Line Sweep
+|  |
+| ------- |
+| [1028-interval-list-intersections](https://github.com/YSShalini/leetcode/tree/master/1028-interval-list-intersections) |
 <!---LeetCode Topics End-->
