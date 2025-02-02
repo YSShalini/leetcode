@@ -87,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/YSShalini/leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
@@ -121,6 +122,7 @@
 | [0006-zigzag-conversion](https://github.com/YSShalini/leetcode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/YSShalini/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YSShalini/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/YSShalini/leetcode/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/YSShalini/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0208-implement-trie-prefix-tree](https://github.com/YSShalini/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -476,6 +478,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YSShalini/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/YSShalini/leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/YSShalini/leetcode/tree/master/0113-path-sum-ii) |
 ## Trie
