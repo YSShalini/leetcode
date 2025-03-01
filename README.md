@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/YSShalini/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/YSShalini/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/YSShalini/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/YSShalini/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/YSShalini/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/YSShalini/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YSShalini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -473,6 +475,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YSShalini/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
