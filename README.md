@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YSShalini/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/YSShalini/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YSShalini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/YSShalini/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YSShalini/leetcode/tree/master/0136-single-number) |
@@ -94,6 +95,7 @@
 | [0022-generate-parentheses](https://github.com/YSShalini/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/YSShalini/leetcode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/YSShalini/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/YSShalini/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/YSShalini/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/YSShalini/leetcode/tree/master/0338-counting-bits) |
