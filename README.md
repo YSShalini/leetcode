@@ -18,6 +18,7 @@
 | [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/YSShalini/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/YSShalini/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/YSShalini/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/YSShalini/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/YSShalini/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -200,6 +201,7 @@
 | [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/YSShalini/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YSShalini/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YSShalini/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
@@ -265,6 +267,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/YSShalini/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/YSShalini/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/YSShalini/leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/YSShalini/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YSShalini/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/YSShalini/leetcode/tree/master/0143-reorder-list) |
