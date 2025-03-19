@@ -67,6 +67,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/YSShalini/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/YSShalini/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/YSShalini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0804-rotated-digits](https://github.com/YSShalini/leetcode/tree/master/0804-rotated-digits) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3227-find-missing-and-repeated-values](https://github.com/YSShalini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/YSShalini/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/YSShalini/leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/YSShalini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3227-find-missing-and-repeated-values](https://github.com/YSShalini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/YSShalini/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/YSShalini/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/YSShalini/leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/YSShalini/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/YSShalini/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
