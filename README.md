@@ -9,6 +9,7 @@
 | [0016-3sum-closest](https://github.com/YSShalini/leetcode/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/YSShalini/leetcode/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/YSShalini/leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/YSShalini/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/YSShalini/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YSShalini/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/YSShalini/leetcode/tree/master/0056-merge-intervals) |
@@ -505,6 +506,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/YSShalini/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/YSShalini/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/YSShalini/leetcode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/YSShalini/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/YSShalini/leetcode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/YSShalini/leetcode/tree/master/0113-path-sum-ii) |
 ## Trie
