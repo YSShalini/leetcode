@@ -28,6 +28,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/YSShalini/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/YSShalini/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/YSShalini/leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/YSShalini/leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/YSShalini/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/YSShalini/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -174,6 +175,7 @@
 | [0133-clone-graph](https://github.com/YSShalini/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/YSShalini/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/YSShalini/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/YSShalini/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/YSShalini/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
@@ -212,6 +214,7 @@
 | [0075-sort-colors](https://github.com/YSShalini/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YSShalini/leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/YSShalini/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YSShalini/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/YSShalini/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -230,6 +233,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/YSShalini/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/YSShalini/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/YSShalini/leetcode/tree/master/0621-task-scheduler) |
@@ -497,6 +501,7 @@
 | [0053-maximum-subarray](https://github.com/YSShalini/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/YSShalini/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/YSShalini/leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/YSShalini/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/YSShalini/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/YSShalini/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/YSShalini/leetcode/tree/master/1014-k-closest-points-to-origin) |
